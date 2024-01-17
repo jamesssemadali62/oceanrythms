@@ -1,0 +1,2 @@
+# oceanrythms
+my magazine project
